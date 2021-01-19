@@ -1,0 +1,2 @@
+rootProject.name='Assistir'
+include ':app'
